@@ -1,9 +1,10 @@
+
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "7845742834:AAFIvxKlfknf4UMTMNlALIq26YHFhDpB5QM"
+OWNER_ID = "1200411908"                               # Require restart after changing it while bot running
+TELEGRAM_API = "26775695"                           # Require restart after changing it while bot running
+TELEGRAM_HASH = "b15bb60859bef151762fc5d9eb206c67"  
+DATABASE_URL = "mongodb+srv://pangphu9:0pSRO3UHIoH5ouAx@cluster0.ipqp2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -11,9 +12,9 @@ TG_PROXY = (
     {}
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
-CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+CMD_SUFFIX = "v"
+AUTHORIZED_CHATS = "-1002458301917 -1002545385201"
+SUDO_USERS = "1200411908"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -81,12 +82,12 @@ VERIFY_TIMEOUT = 0
 LOGIN_PASS = ""
 
 # Bot Settings
-BOT_PM = False
+BOT_PM = True
 SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
-GDRIVE_ID = ""
+GDRIVE_ID = "1Qcu-KgJ4_gUqFnFISoDJK2bZyCFXDLJo"
 GD_DESP = "Uploaded with WZ Bot"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
