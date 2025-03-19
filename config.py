@@ -1,6 +1,6 @@
 
 # REQUIRED CONFIG
-BOT_TOKEN = "7845742834:AAFIvxKlfknf4UMTMNlALIq26YHFhDpB5QM"
+BOT_TOKEN = "7746106443:AAHfvxhlvYbalOfsNMen_Vc0pgOr85XN_b8"
 OWNER_ID = "1200411908"                               # Require restart after changing it while bot running
 TELEGRAM_API = "26775695"                           # Require restart after changing it while bot running
 TELEGRAM_HASH = "b15bb60859bef151762fc5d9eb206c67"  
@@ -143,7 +143,7 @@ LEECH_PREFIX = ""
 LEECH_SUFFIX = ""
 LEECH_FONT = ""
 LEECH_CAPTION = ""
-LEECH_DUMP_CHAT = ""
+LEECH_DUMP_CHAT = "-1002482663527"
 THUMBNAIL_LAYOUT = ""
 
 # qBittorrent/Aria2c
