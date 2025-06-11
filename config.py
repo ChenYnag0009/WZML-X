@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "8029342152:AAGWQyVR94C-KP_dBjaCHLmNSdDcXO_6R5w"
+OWNER_ID = "8079310657"
+TELEGRAM_API = "17822365"
+TELEGRAM_HASH = "b561a326f3d3e7e6ef41cf7d57ab8fb3"
+DATABASE_URL = "mongodb+srv://pangphu9:0pSRO3UHIoH5ouAx@cluster0.ipqp2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -11,9 +11,9 @@ TG_PROXY = (
     {}
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
-CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+CMD_SUFFIX = "x"
+AUTHORIZED_CHATS = "1002458301917 -1002545385201"
+SUDO_USERS = "1200411908"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -86,7 +86,7 @@ IMDB_TEMPLATE = """<b>Title: </b> {title} [{year}]
 # Task Tools
 FORCE_SUB_IDS = ""
 MEDIA_STORE = True
-DELETE_LINKS = False
+DELETE_LINKS = True
 CLEAN_LOG_MSG = False
 
 # Limiters
@@ -97,7 +97,7 @@ VERIFY_TIMEOUT = 0
 LOGIN_PASS = ""
 
 # Bot Settings
-BOT_PM = False
+BOT_PM = True
 SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
@@ -168,9 +168,9 @@ LEECH_CAPTION = ""
 THUMBNAIL_LAYOUT = ""
 
 # Log Channels
-LEECH_DUMP_CHAT = ""
-LINKS_LOG_ID = ""
-MIRROR_LOG_ID = ""
+LEECH_DUMP_CHAT = "-1002482663527"
+LINKS_LOG_ID = "-1002482663527"
+MIRROR_LOG_ID = "-1002482663527"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
