@@ -1,8 +1,8 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "7046398068:AAGtF_fNfKVqKoBDe-UoE-SaYjyH21cBQ0A"
+BOT_TOKEN = ""
 OWNER_ID = "8079310657"
-TELEGRAM_API = "17822365"
-TELEGRAM_HASH = "b561a326f3d3e7e6ef41cf7d57ab8fb3"
+TELEGRAM_API = ""
+TELEGRAM_HASH = ""
 DATABASE_URL = "mongodb+srv://pangphu9:0pSRO3UHIoH5ouAx@cluster0.ipqp2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
